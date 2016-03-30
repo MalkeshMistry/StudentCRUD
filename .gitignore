@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/StudentCRUD/packages/Dapper.1.42
+/StudentCRUD/packages/dbup.3.3.2
+/StudentCRUD/packages/Microsoft.AspNet.Mvc.4.0.30506.0
+/StudentCRUD/packages/Microsoft.AspNet.Mvc.FixedDisplayModes.1.0.0
+/StudentCRUD/packages/Microsoft.AspNet.Razor.2.0.30506.0
+/StudentCRUD/packages/Microsoft.AspNet.WebApi.4.0.30506.0
+/StudentCRUD/packages/Microsoft.AspNet.WebApi.Client.4.0.30506.0
+/StudentCRUD/packages/Microsoft.AspNet.WebApi.Core.4.0.30506.0
+/StudentCRUD/packages/Microsoft.AspNet.WebApi.WebHost.4.0.30506.0
+/StudentCRUD/packages/Microsoft.AspNet.WebPages.2.0.30506.0
+/StudentCRUD/packages/Microsoft.Net.Http.2.0.20710.0
+/StudentCRUD/packages/Microsoft.Web.Infrastructure.1.0.0.0
+/StudentCRUD/packages/Newtonsoft.Json.4.5.11
+/StudentCRUD/packages/OctoPack.3.0.60
+/StudentCRUD/Student.Database/bin
+/StudentCRUD/Student.Database/obj
+/StudentCRUD/StudentCRUD/bin
+/StudentCRUD/StudentCRUD/obj/Debug
+/StudentCRUD/StudentCRUD/obj
