@@ -53,7 +53,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="Deploy.ps1" />
+    <None Include="Deploy.ps1">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="obj\octopacking\Student.Database.nuspec" />
     <None Include="packages.config" />
   </ItemGroup>
