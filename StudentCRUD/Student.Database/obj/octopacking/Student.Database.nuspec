@@ -1,0 +1,21 @@
+<package>
+  <metadata>
+    <id>Student.Database</id>
+    <version>1.0.0.0</version>
+    <authors>Administrator</authors>
+    <owners>Administrator</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The Student.Database deployment package, built on 3/30/2016</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\DrapperTest\StudentCRUD\Student.Database\bin\Debug\Student.Database.exe.config" target="Student.Database.exe.config" />
+    <file src="D:\DrapperTest\StudentCRUD\Student.Database\bin\Debug\Student.Database.exe" target="Student.Database.exe" />
+    <file src="D:\DrapperTest\StudentCRUD\Student.Database\bin\Debug\Student.Database.pdb" target="Student.Database.pdb" />
+    <file src="D:\DrapperTest\StudentCRUD\Student.Database\bin\Debug\DbUp.dll" target="DbUp.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\Student.Database\bin\Debug\DbUp.pdb" target="DbUp.pdb" />
+    <file src="D:\DrapperTest\StudentCRUD\Student.Database\bin\Debug\DbUp.xml" target="DbUp.xml" />
+  </files>
+</package>

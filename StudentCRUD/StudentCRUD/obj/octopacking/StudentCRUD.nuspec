@@ -1,0 +1,55 @@
+<package>
+  <metadata>
+    <id>StudentCRUD</id>
+    <version>1.0.0.0</version>
+    <authors>Administrator</authors>
+    <owners>Administrator</owners>
+    <licenseUrl>http://example.com</licenseUrl>
+    <projectUrl>http://example.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The StudentCRUD deployment package, built on 3/30/2016</description>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Global.asax" target="Global.asax" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Web.config" target="Web.config" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Web.Debug.config" target="Web.Debug.config" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Web.Release.config" target="Web.Release.config" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Views\Web.config" target="Views\Web.config" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Views\Student\AddStudent.cshtml" target="Views\Student\AddStudent.cshtml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Views\Student\AllStudentList.cshtml" target="Views\Student\AllStudentList.cshtml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Views\Student\Edit.cshtml" target="Views\Student\Edit.cshtml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\Views\Student\Delete.cshtml" target="Views\Student\Delete.cshtml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\StudentCRUD.dll.config" target="bin\StudentCRUD.dll.config" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\StudentCRUD.dll" target="bin\StudentCRUD.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\StudentCRUD.pdb" target="bin\StudentCRUD.pdb" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\Dapper.dll" target="bin\Dapper.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\DbUp.dll" target="bin\DbUp.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\Microsoft.Web.Infrastructure.dll" target="bin\Microsoft.Web.Infrastructure.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll" target="bin\Microsoft.Web.Mvc.FixedDisplayModes.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\Newtonsoft.Json.dll" target="bin\Newtonsoft.Json.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Net.Http.Formatting.dll" target="bin\System.Net.Http.Formatting.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Helpers.dll" target="bin\System.Web.Helpers.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Http.dll" target="bin\System.Web.Http.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Http.WebHost.dll" target="bin\System.Web.Http.WebHost.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Mvc.dll" target="bin\System.Web.Mvc.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Razor.dll" target="bin\System.Web.Razor.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.WebPages.Deployment.dll" target="bin\System.Web.WebPages.Deployment.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.WebPages.dll" target="bin\System.Web.WebPages.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.WebPages.Razor.dll" target="bin\System.Web.WebPages.Razor.dll" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\Dapper.pdb" target="bin\Dapper.pdb" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\Dapper.xml" target="bin\Dapper.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\DbUp.pdb" target="bin\DbUp.pdb" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\DbUp.xml" target="bin\DbUp.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\Newtonsoft.Json.xml" target="bin\Newtonsoft.Json.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Net.Http.Formatting.xml" target="bin\System.Net.Http.Formatting.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Helpers.xml" target="bin\System.Web.Helpers.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Http.xml" target="bin\System.Web.Http.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Http.WebHost.xml" target="bin\System.Web.Http.WebHost.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Mvc.xml" target="bin\System.Web.Mvc.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.Razor.xml" target="bin\System.Web.Razor.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.WebPages.xml" target="bin\System.Web.WebPages.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.WebPages.Deployment.xml" target="bin\System.Web.WebPages.Deployment.xml" />
+    <file src="D:\DrapperTest\StudentCRUD\StudentCRUD\bin\System.Web.WebPages.Razor.xml" target="bin\System.Web.WebPages.Razor.xml" />
+  </files>
+</package>
